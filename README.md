@@ -14,7 +14,7 @@ This project analyzes e-commerce sales data to identify trends, optimize invento
 - **Results/**: Visualizations, Tableau dashboard screenshots, and other outputs.
 
 ## Dashboard Highlights
-Explore key insights through an interactive Tableau dashboard:
+Explore key insights through a Tableau dashboard:
 1. **Sales Over Time**: Line chart showing daily sales trends across months.
 2. **Category Sales**: Bar chart of total sales by category.
 3. **Channel Comparison**: Treemap of channel MRPs for profitability analysis.
