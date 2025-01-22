@@ -10,7 +10,7 @@ This project analyzes e-commerce sales data to identify trends, optimize invento
 
 ## Folder Structure
 - **Code/**: Jupyter notebooks for data cleaning and analysis.
-- **Data/**: Sample datasets used for analysis (if sharing is permitted).
+- **Data/**: Sample datasets used for analysis
 - **Results/**: Visualizations, Tableau dashboard screenshots, and other outputs.
 
 ## Dashboard Highlights
